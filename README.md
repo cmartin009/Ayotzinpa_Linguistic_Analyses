@@ -26,7 +26,8 @@ Script is meant to speed up NLP work
 
 
 ## Outline of Pipeline
-![image of pipeline](https://github.com/Novetta/Disinformation_Pipeline/blob/master/pipeline.png)    
+![image of pipeline](https://github.com/cmartin009/Ayotzinpa_Linguistic_Analyses/blob/pipeline.png)    
+
 
 ## Main Features
 -	**Linguistic feature returns:** Users can get count data for part-of-speech representation in each article, overall sentiment scores (see [VADER](https://github.com/cjhutto/vaderSentiment) model), and article complexity returns (i.e. sentence count, word density).
