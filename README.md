@@ -15,6 +15,7 @@ Follow [**Full_process*](https://github.com/cmartin009/Ayotzinpa_Linguistic_Anal
 ## For Project and Data Details
 See the Final paper for this project: 
 
+Final dataset : https://drive.google.com/drive/folders/1_INCIZGd0pgqA3TeJ3xLjn-_7jy9ZHup?usp=sharing
 
 ## Featurefunctions script 
 Script is meant to speed up NLP work
@@ -26,7 +27,7 @@ Script is meant to speed up NLP work
 
 
 ## Outline of Pipeline
-![image of pipeline](https://github.com/cmartin009/Ayotzinpa_Linguistic_Analyses/blob/pipeline.png)    
+![image of pipeline](https://github.com/cmartin009/Ayotzinpa_Linguistic_Analyses/blob/main/blob/pipeline.png)    
 
 
 ## Main Features
