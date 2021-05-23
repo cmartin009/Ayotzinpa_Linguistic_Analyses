@@ -31,7 +31,7 @@ Script is meant to speed up NLP work
 
 ## Main Features
 -	**Ayotzinapa Twitter Dataset:** Users gain access to a Twitter Dataset that covers topics surrounding Ayotzinapa from August 2014 to December 2015.Users also gain access to web scraper and Methodology used to collect Ayotzinapa tweets.
--	**Linguistic feature returns:** Users can get count data for part-of-speech representation in each Tweet, overall sentiment scores (see [VADER](https://github.com/cjhutto/vaderSentiment) model), and article complexity returns (i.e. sentence count, word density).
+-	**Linguistic feature returns:** Users can get count data for part-of-speech representation in each Tweet, overall sentiment scores (see [Spanish Sentiment Analyzer](https://github.com/sentiment-analysis-spanish/sentiment-spanish) model), and article complexity returns (i.e. sentence count, word density).
 -	**Topic Modeling:** Users can get a breakdown of major topics in their dataset as well as corresponding keywords for each.
 -	**Ayotzinapa Timeline:** Users get list of carefully curated events surrounding Ayotzinapa that can be studied further to see if there is any correlation between the linguist feature data and real life happenings.
 -	**Data:** All of the resulting data can be put through data visualization software to see if there are any patters.
